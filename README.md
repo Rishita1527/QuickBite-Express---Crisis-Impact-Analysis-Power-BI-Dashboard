@@ -1,63 +1,69 @@
-# QuickBite-Express-Crisis-Impact-Analysis-Power-BI-Dashboard
-This repository contains my submission for the Codebasics Resume Project Challenge 18. The objective was to analyze the sudden business decline of QuickBite Express, a fast-growing online food delivery platform, and uncover where, why, and how the crisis unfolded using data-driven insights.
+# **QuickBite Express - Crisis & Impact Analysis | Power BI Dashboard**
 
-🔗 Live Dashboard
+This repository contains my submission for the **Codebasics Resume Project Challenge 18**.  
+The analysis explores how **QuickBite Express — a rapidly scaling online food delivery platform - experienced a severe business decline during the crisis period**, and uncovers where, why, and how the shift occurred using data-driven insights.
 
-📍 Project Context
+---
 
-QuickBite Express experienced strong growth before the crisis — high order velocity, strong customer retention, and stable restaurant partnerships.
-But during the crisis period, the platform saw sharp drops in orders, ratings, retention, and revenue across cities and restaurants, prompting a detailed analysis to uncover root causes.
+## 🔗 **Live Dashboard**
+---
 
-🎯 Business Goals
+## 📍 **Project Context**
+Before the crisis, QuickBite Express had strong growth — increasing order frequency, loyal customers, and stable restaurant partnerships.  
+During the crisis, however, the platform witnessed **sharp drops in revenue, orders, ratings, and customer retention**, requiring deeper investigation to understand the drivers behind the business disruption.
 
-The management wanted clarity on:
+---
 
-What changed during the crisis across cities, restaurants, customers, and delivery operations
+## 🎯 **Business Questions Answered**
+- Which KPIs changed the most during the crisis?
+- Which **cities, customer segments, and restaurant types** were most affected?
+- Did **delivery delays and SLA breaches** correlate with rating drops?
+- What was the **impact on loyal and high-value customers**?
+- Which **recovery actions** can bring business performance back?
 
-Which segments were hit hardest and why
+---
 
-Whether the decline was temporary or structural
+## 🗂️ **Dashboard Pages**
+1. Home  
+2. Overview & KPI Trend  
+3. City-Level Analysis  
+4. Restaurant-Level Analysis  
+5. Delivery Efficiency & SLA Compliance  
+6. Customer Rating & Sentiment Analysis  
+7. Customer Behaviour & Loyalty Insights  
 
-What decisions would help recover trust and business
+---
 
-🗂 Dashboard Pages
+## 📊 **Key Insights (Crisis vs Pre-Crisis)**
 
-1️⃣ Home
-2️⃣ Overview & KPI Trends
-3️⃣ City-Level Analysis
-4️⃣ Restaurant-Level Analysis
-5️⃣ Delivery Efficiency & SLA Compliance
-6️⃣ Customer Rating & Sentiment Analysis
-7️⃣ Customer Behaviour & Loyalty Insights
+- **Revenue dropped 70.92%** → from **₹37.63M to ₹10.94M**
+- **Average customer rating reduced from 4.50 → 2.51**
+- **High-Value Customer revenue crashed 95%** → from **₹5.72M to ₹0.29M**
+- **84.03% of High-Value Customers churned during crisis**
+- **Order frequency per customer fell from 2.64 → 1.09**
+- **On-time delivery and SLA compliance declined in crisis months**, aligning with rating fall
+- **Restaurants with crisis ratings <3.5 saw the highest cancellations and lowest reorders**
+- **Negative review keywords were dominated by food quality, safety concerns, cold food & late delivery**
+- **Churn highest among North Indian, Biryani, South Indian & Chinese cuisine lovers**
+- **City churn highest in Bengaluru, Mumbai & Delhi**
 
-📊 Key Insights
+---
 
-Revenue fell 70.92% — from ₹37.63M pre-crisis to ₹10.94M during crisis.
+## 🚀 **Recommendations**
 
-Average rating dropped from 4.5 to 2.51, strongly mirroring the business decline.
+| Area | What will help |
+|------|----------------|
+| Customer Trust | Food safety audits, packaging standards, quality-check tags |
+| Delivery Performance | Fleet optimization, rerouting, high-density batching |
+| Win-back Strategy | Cashback for High-Value Customers, subscription for frequent users |
+| Churn Reduction | Targeted offers for cuisine-wise & city-wise churn clusters |
+| Restaurant Stability | Training on SLA compliance + fast-track onboarding for replacements |
 
-Loyal customers (5+ orders) dropped from 58 to just 9, with 49 churned, including 26 who previously rated above 4.5.
+---
 
-High-Value Customers (Top 5% spenders) — revenue declined from ₹5.72M → ₹0.29M (-95%).
+## 🛠 **Tools Used**
+- **Power BI** – Dashboard creation & KPIs
+- **Power Query** – Data cleaning and transformation
 
-84.03% of High-Value Customers churned, highest in Bengaluru, Mumbai, Delhi and strong affinity for North Indian, Biryani, South Indian, Chinese, Pizza cuisines.
-
-Crisis months showed high SLA breaches and longer delivery times, aligning with the steepest rating declines.
-
-Restaurants with ratings <3.5 during crisis showed the highest cancellation rate and lowest reorder probability.
-
-🚀 Recommendations
-
-Prioritize recovery campaigns for High-Value Customers & loyal customers.
-
-Reinforce delivery SLAs through logistics rerouting, fleet optimization, and hotspot delivery batching.
-
-Restaurant quality recovery program — food safety audits, mandated packing standards, menu heat maps for quality consistency.
-
-Segment-based incentives — cashback for HVCs, subscription plans for frequent users, free-delivery winback coupons for churned users.
-
-🛠 Tools Used
-
-Power BI – Data modelling & dashboard visualization
-
-Power Query – Data cleaning and transformation
+👤 **Rishita Singh**  
+🔗 LinkedIn: https://www.linkedin.com/in/rishitasingh27/
