@@ -5,7 +5,8 @@ The analysis explores how **QuickBite Express — a rapidly scaling online food 
 
 ---
 
-## 🔗 **Live Dashboard**
+## 🔗 🔗 [**Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZjA5MTU5ZGMtMzhkNy00ZjczLTgzN2YtZDAxMDhhMTI2ZDU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ---
 
 ## 📍 **Project Context**
