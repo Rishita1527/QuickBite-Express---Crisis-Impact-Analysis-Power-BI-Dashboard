@@ -24,13 +24,27 @@ During the crisis, however, the platform witnessed **sharp drops in revenue, ord
 ---
 
 ## 🗂️ **Dashboard Pages**
-1. Home  
-2. Overview & KPI Trend  
-3. City-Level Analysis  
-4. Restaurant-Level Analysis  
-5. Delivery Efficiency & SLA Compliance  
-6. Customer Rating & Sentiment Analysis  
-7. Customer Behaviour & Loyalty Insights  
+### 🏠 Home Page  
+<img src="Screenshots/Home Page.png" width="850"/>
+
+### 📊 Overview & KPI Trends  
+<img src="Screenshots/Overview & KPI Trends.png" width="850"/>
+
+### 🏙 City Level Analysis  
+<img src="Screenshots/City Level Analysis.png" width="850"/>
+
+### 🍽 Restaurant Level Analysis  
+<img src="Screenshots/Restaurant Level Analysis.png" width="850"/>
+
+### 🚚 Delivery Efficiency & SLA Compliance  
+<img src="Screenshots/Delivery Efficiency & SLA Compliance.png" width="850"/>
+
+### ⭐ Customer Rating & Sentiment Analysis  
+<img src="Screenshots/Customer Rating & Sentiment Analysis.png" width="850"/>
+
+### 🔁 Customer Behaviour & Loyalty Analysis  
+<img src="Screenshots/Customer Behaviour & Loyalty Analysis.png" width="850"/>
+
 
 ---
 
