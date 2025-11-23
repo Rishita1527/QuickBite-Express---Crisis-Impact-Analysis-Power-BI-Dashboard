@@ -9,7 +9,7 @@ The analysis explores how **QuickBite Express — a rapidly scaling online food 
 ---
 
 ## 📍 **Project Context**
-Before the crisis, QuickBite Express had strong growth — increasing order frequency, loyal customers, and stable restaurant partnerships.  
+Before the crisis, QuickBite Express had strong growth - increasing order frequency, loyal customers, and stable restaurant partnerships.  
 During the crisis, however, the platform witnessed **sharp drops in revenue, orders, ratings, and customer retention**, requiring deeper investigation to understand the drivers behind the business disruption.
 
 ---
